@@ -9,10 +9,10 @@ export function Header() {
   return (  
     <HeaderWrapper>
       <article>
-        <strong>Hello, World! I am Luci</strong>
+        <strong>Hello, there! I am Luci</strong>
         <h1>Front End Developer</h1>
-        <p>Hello! I am Luci Front-end Developer based in UK. I like making online life easier with a touch of beauty. Back in 2020 when I decided to have a career change I started my learning journey. I am passionate about every line of code and proud of myself for every step of my progress.
-        A focused, results-driven, and highly capable Front- End Developer offering sound theoretical knowledge and practical experience across projects using HTML, CSS, JavaScript, React, Git, and GitHub.</p>
+        <p>Front-End Developer based in UK. I like making online life easier with a touch of beauty. Back in 2020 when I decided to have a career change I started my learning journey. I am passionate about every line of code and proud of myself for every step of my progress.
+        A focused, results-driven, and highly capable Front-End Developer offering sound theoretical knowledge and practical experience across projects using HTML, CSS, JavaScript, React, Git, and GitHub.</p>
         <button>
           <a href={lucicv} target="_blank" download>
             Download CV 
