@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luci</h1>
 <h3 align="center">Junior Software Engineer</h3>
 
-- 🌱 I’m enrolled Software Engineer Bootcamp at HiperionDev 
+- 🌱 I’m enrolled Software Engineer Bootcamp at HyperionDev 
   
 -  🌱 I’m currently learning **Python**
 
